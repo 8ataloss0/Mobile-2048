@@ -6,7 +6,7 @@ body{
    height: 100%;
 }
 html{
-   overflow: hidden;
+   
    touch-action:none;
 }
 header{
